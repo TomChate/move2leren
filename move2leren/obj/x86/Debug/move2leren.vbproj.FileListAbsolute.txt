@@ -10,3 +10,5 @@ C:\Users\Tom\Documents\GitHub\move2leren\move2leren\obj\x86\Debug\move2leren.Log
 C:\Users\Tom\Documents\GitHub\move2leren\move2leren\obj\x86\Debug\move2leren.Home.resources
 C:\Users\Tom\Documents\GitHub\move2leren\move2leren\obj\x86\Debug\move2leren.VocabLibrary.resources
 C:\Users\Tom\Documents\GitHub\move2leren\move2leren\obj\x86\Debug\move2leren.Register.resources
+C:\Users\Tom\Documents\GitHub\move2leren\move2leren\obj\x86\Debug\move2leren.NewCache.resources
+C:\Users\Tom\Documents\GitHub\move2leren\move2leren\obj\x86\Debug\move2leren.AddWords.resources

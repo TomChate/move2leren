@@ -17,4 +17,9 @@
         Me.Hide()
         LogOn.Show()
     End Sub
+
+    Private Sub Button3_Click(sender As System.Object, e As System.EventArgs) Handles Button3.Click
+        Me.Hide()
+        NewCache.Show()
+    End Sub
 End Class
