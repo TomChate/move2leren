@@ -94,6 +94,7 @@ Partial Class Home
         'Button6
         '
         Me.Button6.Font = New System.Drawing.Font("Tahoma", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button6.ForeColor = System.Drawing.Color.Red
         Me.Button6.Location = New System.Drawing.Point(12, 696)
         Me.Button6.Name = "Button6"
         Me.Button6.Size = New System.Drawing.Size(126, 40)

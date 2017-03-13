@@ -25,7 +25,6 @@
     End Sub
 
     Private Sub TabPageShopping_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TabPageShopping.Click
-        TabPageShopping.Text = "hello"
         ListBoxVocab.Text = "hello"
     End Sub
 End Class
