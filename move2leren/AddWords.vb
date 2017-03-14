@@ -54,7 +54,8 @@
 
     Private Sub TextBox5_TextChanged(sender As System.Object, e As System.EventArgs) Handles TextBox5.TextChanged
         Label7.Show()
+        TextBox9.Show()
         TextBox10.Show()
-        TextBox5.Show()
+
     End Sub
 End Class

@@ -78,6 +78,12 @@
     <Compile Include="AddWords.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="CacheMap.Designer.vb">
+      <DependentUpon>CacheMap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CacheMap.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Home.Designer.vb">
       <DependentUpon>Home.vb</DependentUpon>
     </Compile>
@@ -112,6 +118,12 @@
     <Compile Include="NewCache.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Profile.Designer.vb">
+      <DependentUpon>Profile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Register.Designer.vb">
       <DependentUpon>Register.vb</DependentUpon>
     </Compile>
@@ -129,6 +141,9 @@
     <EmbeddedResource Include="AddWords.resx">
       <DependentUpon>AddWords.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="CacheMap.resx">
+      <DependentUpon>CacheMap.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Home.resx">
       <DependentUpon>Home.vb</DependentUpon>
     </EmbeddedResource>
@@ -143,6 +158,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="NewCache.resx">
       <DependentUpon>NewCache.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profile.resx">
+      <DependentUpon>Profile.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Register.resx">
       <DependentUpon>Register.vb</DependentUpon>
@@ -161,6 +179,12 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
